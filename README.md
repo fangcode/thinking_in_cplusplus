@@ -1,4 +1,4 @@
 thinking_in_cplusplus
 =====================
 
-source back up of thinking in c++
+source code back up of thinking in c++
